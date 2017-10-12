@@ -4,3 +4,4 @@ Karena programmer jaman now kudu kenal codility.
 
 ## Currently solved:
 - Demo/MissingInteger (100/100)
+- BinaryGap (80/0)
